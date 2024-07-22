@@ -1,0 +1,24 @@
+
+FILE: ...wp-content/plugins/dynamic-post-list/public/js/dynamic-post-list-public.js
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+  47 | WARNING | Any HTML passed to `append` gets executed. Make sure it's
+     |         | properly escaped.
+ 159 | WARNING | Any HTML passed to `html` gets executed. Make sure it's
+     |         | properly escaped.
+ 197 | WARNING | Any HTML passed to `html` gets executed. Make sure it's
+     |         | properly escaped.
+--------------------------------------------------------------------------------
+
+
+FILE: ...unselingschools/wp-content/plugins/dynamic-post-list/dynamic-post-list.php
+--------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+--------------------------------------------------------------------------------
+ 163 | WARNING | Detected usage of tax_query, possible slow query.
+ 369 | WARNING | Detected usage of tax_query, possible slow query.
+ 417 | WARNING | Detected usage of tax_query, possible slow query.
+--------------------------------------------------------------------------------
+
+

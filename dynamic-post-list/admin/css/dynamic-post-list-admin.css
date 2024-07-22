@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.feature-image{
+    height: 150px;
+    width: 100%;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
